@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Testers slash
 seo:
   title: ''
   description: ''
