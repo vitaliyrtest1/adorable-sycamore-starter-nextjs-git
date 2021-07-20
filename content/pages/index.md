@@ -83,13 +83,13 @@ sections:
     background_color: gray
 seo:
   title: 1Stackbit Starter Theme3
-  description: The preview of the Starter theme2
+  description: The preview of the Starter theme23
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Stackbit Starter Theme3
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
