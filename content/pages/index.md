@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: 1Stackbit Starter Theme
-  description: The preview of the Starter theme
+  description: The preview of the Starter theme2
   extra:
     - name: 'og:type'
       value: website
